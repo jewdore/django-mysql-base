@@ -9,5 +9,6 @@ elasticsearch-dsl==7.1.0
 boto3==1.12.27
 requests==2.22.0
 requests-aws4auth==0.9
+Cython==0.29.20
 pandas==1.0.0
 numpy==1.18.1
