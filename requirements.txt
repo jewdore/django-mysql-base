@@ -11,4 +11,4 @@ requests==2.22.0
 requests-aws4auth==0.9
 Cython==0.29.20
 pandas==1.0.0
-numpy==1.18.1
+numpy==1.22.0
